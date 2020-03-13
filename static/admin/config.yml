@@ -17,3 +17,4 @@ collections:
       - {label:  Nome , name:  title , widget:  String }
       - {label:  Avatar , name:  avatar , widget:  image }
       - {label:  Bio , name:  body , widget:  markdown }
+      
