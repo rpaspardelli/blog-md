@@ -12,9 +12,8 @@ collections:
     folder: src/authors
     create: true
     slug: "{{slug}}"
-    path: '{{slug}}/index'
+    path: "{{slug}}/index"
     fields: 
       - {label:  Nome , name:  title , widget:  String }
       - {label:  Avatar , name:  avatar , widget:  image }
       - {label:  Bio , name:  body , widget:  markdown }
-      
